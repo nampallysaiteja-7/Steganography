@@ -11,6 +11,7 @@ Decryption (Getting the Message Back): The hidden message is retrieved from the 
 Step-by-Step Process:
 
 1. Hiding the Message (Encryption):
+   
 Step 1: Choose a picture (e.g., mypic.jpg) and the message you want to hide (e.g., "Hello, World!").
 Step 2: Enter the message and a password into the encryption program.
 Step 3: The program will make small changes to the picture, hiding each letter of your message in the colors of the pixels.
